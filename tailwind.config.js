@@ -19,8 +19,8 @@ module.exports = {
       xl: "1430px",
     },
     fontFamily:{
-      primary: "var(--font-cormorant-upright)",
-      secondary: "var(--font-open_sans)",
+      primary: "var(--font-geist-sans)",
+      secondary: "var(--font-geist-mono)",
     },
     extend: {
         colors: {
